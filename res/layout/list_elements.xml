@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:gravity="right"
+	android:orientation="vertical" >
+
+	<TextView
+		android:id="@+id/txtLocality"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_toLeftOf="@+id/btnAdd"
+		android:text="123"
+		android:textSize="20dp"
+		android:textStyle="bold" />
+
+	<TextView
+		android:id="@+id/txtLocalityExtended"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignRight="@+id/txtLocality"
+		android:layout_below="@+id/txtLocality"
+		android:text="456"
+		android:textSize="12dp"
+		android:textStyle="normal" />
+
+	<ImageView
+		android:id="@+id/btnAdd"
+		android:layout_width="40dp"
+		android:layout_height="40dp"
+		android:layout_alignParentRight="true"
+		android:layout_alignParentTop="true"
+		android:scaleType="centerInside"
+		android:src="@android:drawable/btn_plus" />
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="config">Setup</string>
+	<string name="update">Update</string>
+	<string name="app_name">Simple Weather Forecast</string>
+	<string name="degrees_preferences_title">Temperature</string>
+	<string name="degrees_summary">Choose Temperature Unit</string>
+	<string name="nd">"N/A"</string>
+	<string name="UpdateTextTitle">"Updating"</string>
+	<string name="UpdateTextMessage">"Download Forecast Data"</string>
+	<string name="update_preferences_title">Automatic Updates.</string>
+	<string name="update_summary">Choose Time Between Updates. </string>
+	<string name="no_provider">No Position Provider Enabled</string>
+	<string name="start_provider">Check "Use wireless networks"</string>
+	<string name="warning">Warning!.</string>
+	<string name="color_preferences_title">Colors.</string>
+	<string name="color_summary">Choose text color widgets. </string>
+	<string name="copyright">© J.Carrasco R&amp;D, 2011.</string>
+	<string name="no_data">No data connection</string>
+	<string name="today">Today</string>
+	<string name="forecast">Forecast</string>
+	<string name="place_to_search">Search for your location</string>
+	<string name="current_location">Current location: </string>
+	<string name="search">Search</string>
+	<string name="delete_place">Remove place</string>
+	<string name="current_temperature">current temperature</string>
+	<string name="degrees_celsius">Degrees Celsius,</string>
+	<string name="degrees_Fahrenheit">Degrees Fahrenheit,</string>
+	<string name="moisture">, RH</string>
+	<string name="wind">, wind at</string>
+	<string name="sunraise">The sun rises at</string>
+	<string name="sunset">and sunset is at</string>
+
+</resources>

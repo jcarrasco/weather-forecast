@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+	android:initialLayout="@layout/weather_current_condition"
+	android:minWidth="143dip"
+	android:minHeight="72dip"
+	android:label="Weather Widget"
+/>

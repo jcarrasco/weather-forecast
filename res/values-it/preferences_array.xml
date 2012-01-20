@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="type_degrees">
+		<item>Gradi Celsius</item>
+		<item>Gradi Fahrenheit</item>
+	</string-array>
+	<string-array name="degrees_values">
+		<item>100</item>
+		<item>101</item>
+	</string-array>
+	<string-array name="update_time">
+		<item>30 minuti</item>
+		<item>1 ore</item>
+		<item>2 ore</item>
+		<item>4 ore</item>
+		<item>8 ore</item>
+		<item>12 ore</item>
+	</string-array>
+	<string-array name="update_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+	</string-array>
+	<string-array name="color_choose">
+		<item>Difetto</item>
+		<item>Rosso</item>
+		<item>Giallo</item>
+		<item>Blu</item>
+		<item>Porpora</item>
+		<item>Rosa</item>
+		<item>Nero</item>
+		<item>Bianco</item>
+	</string-array>
+	<string-array name="color_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+	</string-array>
+
+</resources>

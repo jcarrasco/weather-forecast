@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	<ListPreference
+		android:defaultValue="100"
+		android:entries="@array/type_degrees"
+		android:entryValues="@array/degrees_values"
+		android:key="degress"
+		android:summary="@string/degrees_summary"
+		android:title="@string/degrees_preferences_title" />
+	<ListPreference
+		android:defaultValue="0"
+		android:entries="@array/update_time"
+		android:entryValues="@array/update_values"
+		android:key="update_time"
+		android:summary="@string/update_summary"
+		android:title="@string/update_preferences_title" />
+	<ListPreference
+		android:defaultValue="0"
+		android:entries="@array/color_choose"
+		android:entryValues="@array/color_values"
+		android:key="color_choose"
+		android:summary="@string/color_summary"
+		android:title="@string/color_preferences_title" />
+
+</PreferenceScreen>

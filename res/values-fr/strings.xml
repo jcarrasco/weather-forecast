@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="config">Préférences</string>
+	<string name="update">Mettre à jour</string>
+	<string name="app_name">Simple Weather Forecast</string>
+	<string name="degrees_preferences_title">Température</string>
+	<string name="degrees_summary">"Sélectionnez l'unité de température"</string>
+	<string name="nd">"N/D"</string>
+	<string name="UpdateTextTitle">"La mise à jour"</string>
+	<string name="UpdateTextMessage">"Téléchargement des données actuelles"</string>
+	<string name="update_preferences_title">Mises à jour automatiques.</string>
+	<string name="update_summary">Sélectionnez le temps entre les mises à jour.</string>
+	<string name="no_provider">Aucun fournisseur de position en fonction</string>
+	<string name="start_provider">Selezionare la casella "Utiliser réseaux sans fil".</string>
+	<string name="warning">Avertissement!.</string>
+	<string name="color_preferences_title">Couleurs.</string>
+	<string name="color_summary">Sélectionnez la couleur du texte du widget. </string>
+	<string name="copyright">© J.Carrasco R&amp;D, 2011.</string>
+	<string name="no_data">Pas de connexion de données</string>
+	<string name="today">"Aujourd'hui"</string>
+	<string name="forecast">Prévisions météorologiques</string>
+	<string name="place_to_search">Recherche pour votre emplacement</string>
+	<string name="current_location">Emplacement actuel</string>
+	<string name="search">Recherche</string>
+	<string name="delete_place">Retirer emplacement</string>
+	<string name="current_temperature">température actuelle </string>
+	<string name="degrees_celsius">Degrés Celsius,</string>
+	<string name="degrees_Fahrenheit">Degrés Fahrenheit,</string>
+	<string name="moisture">", l'humidité relative"</string>
+	<string name="wind">, vent à</string>
+	<string name="sunraise">Le soleil se lève à</string>
+	<string name="sunset">et coucher du soleil est à </string>
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="type_degrees">
+		<item>Degrés Celsius</item>
+		<item>Degrés Fahrenheit</item>
+	</string-array>
+
+	<string-array name="degrees_values">
+		<item>100</item>
+		<item>101</item>
+	</string-array>
+
+	<string-array name="update_time">
+		<item>30 minutes</item>
+		<item>1 heures</item>
+		<item>2 heures</item>
+		<item>4 heures</item>
+		<item>8 heures</item>
+		<item>12 heures</item>
+	</string-array>
+
+	<string-array name="update_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+	</string-array>
+	
+		<string-array name="color_choose">
+		<item>Défaut</item>
+		<item>Rouges</item>
+		<item>Jaune</item>
+		<item>Bleu</item>
+		<item>Violet</item>
+		<item>Rose</item>
+		<item>Noire</item>
+		<item>Blanc</item>
+	</string-array>
+
+	<string-array name="color_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+	</string-array>
+</resources>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent" >
+
+	<EditText
+		android:id="@+id/txtSearch"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentRight="true"
+		android:layout_alignParentTop="true"
+		android:layout_marginTop="21dp" >
+	</EditText>
+
+	<TextView
+		android:id="@+id/lblSearch"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentTop="true"
+		android:text="@string/place_to_search"
+		android:textSize="18dp" />
+
+	<TextView
+		android:id="@+id/lblCurrentPlace"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_below="@+id/txtSearch"
+		android:layout_marginTop="1dp"
+		android:text="@string/current_location"
+		android:textSize="16dp" />
+
+	<ListView
+		android:id="@+id/LstResultados"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_below="@+id/btnSearch" >
+	</ListView>
+
+	<TextView
+		android:id="@+id/txtCurrentPlace"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/txtSearch"
+		android:layout_toRightOf="@+id/lblCurrentPlace"
+		android:textSize="16dp" />
+
+	<Button
+		android:id="@+id/btnSearch"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/lblCurrentPlace"
+		android:layout_centerHorizontal="true"
+		android:text="@string/search" />
+
+</RelativeLayout>
